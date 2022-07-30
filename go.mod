@@ -1,4 +1,4 @@
-module main
+module github.com/ElecTwix/UDP-server-go
 
 go 1.18
 
