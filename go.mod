@@ -2,9 +2,9 @@ module main
 
 go 1.18
 
+require fyne.io/fyne/v2 v2.2.1
+
 require (
-	fyne.io/fyne v1.4.3 // indirect
-	fyne.io/fyne/v2 v2.2.1 // indirect
 	fyne.io/systray v1.10.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fredbi/uri v0.0.0-20181227131451-3dcfdacbaaf3 // indirect
