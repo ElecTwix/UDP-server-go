@@ -1,5 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/ElecTwix/UDP-server-go)](https://goreportcard.com/report/github.com/ElecTwix/UDP-server-go)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com//ElecTwix/UDP-server-go)](https://pkg.go.dev/github.com/ElecTwix/UDP-server-go)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/ElecTwix/UDP-server-go)](https://pkg.go.dev/github.com/ElecTwix/UDP-server-go)
 ## Server & Client with Golang
 
 - UDP server & UDP client
